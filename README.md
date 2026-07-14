@@ -29,8 +29,7 @@ Contains detailed trading information including:
 - Timestamp
 
 Dataset Link:
-https://drive.google.com/file/d/1M0b8bMDWVoPe5GAeXcm5B3FwGl32du1_/view?usp=drive_link
-
+https://drive.google.com/file/d/1M0b8bMDWVoPe5GAeXcm5B3FwGl32du1_/view?usp=sharing
 ### 2. Bitcoin Fear & Greed Index
 Contains daily market sentiment values:
 - Fear
@@ -40,7 +39,7 @@ Contains daily market sentiment values:
 - Extreme Greed
 
 Dataset Link:
-https://drive.google.com/file/d/1G7QuCwWzEnBDn57Yahyo7BjqzSc6Sx7n/view?usp=drive_link
+https://drive.google.com/file/d/1G7QuCwWzEnBDn57Yahyo7BjqzSc6Sx7n/view?usp=sharing
 
 ---
 
